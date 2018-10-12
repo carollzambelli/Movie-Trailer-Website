@@ -1,2 +1,2 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+# Movie Trailer
+Source code for a Movie Trailer website.Project is part of Nanodegree Full Stack Developer Course
