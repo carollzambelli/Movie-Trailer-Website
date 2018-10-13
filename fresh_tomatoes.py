@@ -9,7 +9,7 @@ main_page_head = '''
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Fresh Tomatoes!</title>
+    <title>Movie Trailer Center</title> <!-- Este título é o que aparece na aba -->
 
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
@@ -107,7 +107,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+            <a class="navbar-brand" href="#">Movie Trailer Center</a> <!-- Este título é o que aparece no menu de navegação -->
           </div>
         </div>
       </div>
