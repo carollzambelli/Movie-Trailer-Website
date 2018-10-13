@@ -1,8 +1,7 @@
 import fresh_tomatoes
 import media
 
-# This is where instances of the class Movie are defined.
-# Please note that storyline is here too, even if it has not been used in this project.
+# This files contain the instances of the films.
 
 thor = media.Movie("Thor",
                    "The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
