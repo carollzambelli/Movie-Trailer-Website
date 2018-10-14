@@ -50,7 +50,7 @@ captain = media.Movie("Captain America",
                    "https://www.youtube.com/watch?v=6y3oHJnfnjU")
 
 
-
+#we create a list for pass the movies into open_movies_page
 movies = [captain, iron_man, thor, dr_strange, avengers, pantera_negra, ant_man, spider_man, g_galaxy]
 
 fresh_tomatoes.open_movies_page(movies)
