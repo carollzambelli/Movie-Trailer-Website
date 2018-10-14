@@ -2,11 +2,11 @@
 
 Source code for a Movie Trailer website.Project is part of Nanodegree Full Stack Developer Course
 
-#**What it is and does**
+**What it is and does**
 
 This code produces a movie website that display the trailer and synopsis of number movies.
 
-##**Required Libraries and Dependencies**
+**Required Libraries and Dependencies**
 
 Python 2.x, or higher, is required to run this project. 
 
@@ -18,11 +18,11 @@ fresh_tomatoes.py - creates the HTML file for the website (Udacity supplied)
 How to Run Project
 Download the project zip file to you computer and unzip the file. Or clone this repository to your desktop.
 
-#**Run the movie trailer web site**
+**Run the movie trailer web site**
 
 go to the project directory and:
 python main.py
 
-#**Add movies**
+>**Add movies**
 In the main script you need to create an instance in this order:
 media.Movie(title, synopsis, image_path, trailer link)
