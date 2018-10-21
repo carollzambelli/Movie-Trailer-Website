@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # import the html content and media class
 import fresh_tomatoes
 import media
