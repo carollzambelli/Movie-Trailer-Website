@@ -1,6 +1,6 @@
 # Movie Trailer
 
-Source code for a Movie Trailer website.Project is part of Nanodegree Full Stack Developer Course
+Source code for a Movie Trailer website.
 
 **What it is and does**
 
