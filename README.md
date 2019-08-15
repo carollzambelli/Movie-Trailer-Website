@@ -2,6 +2,8 @@
 
 Source code for a Movie Trailer website.
 
+![movie_trailes](movie_trailer.png)
+
 **What it is and does**
 
 This code produces a movie website that display the trailer and synopsis of number movies.
